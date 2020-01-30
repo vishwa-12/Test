@@ -1,0 +1,769 @@
+
+<wcm:root xmlns:wcm="http://www.stellent.com/wcm-data/ns/8.0.0" version="8.0.0.0">
+    <wcm:element name="df_notes">DF_NEWCO_LOST_PARAMS</wcm:element>
+    <wcm:element name="small_tf_title">Lost &amp; Stolen</wcm:element>
+    <wcm:element name="page_headline">Report a lost or stolen device</wcm:element>
+    <wcm:element name="introduction_text">We can block your device and stop anyone else using it, so report it as soon as possible. &lt;br /&gt;&lt;br /&gt; Before doing that, you should try to wipe all personal information from it. Find out how to &lt;span class="popup-hyperlink wipe-your-device-popup"&gt;&lt;u&gt;wipe your device&lt;/u&gt;&lt;/span&gt;.</wcm:element>
+    <wcm:element name="question_text">Has your device been lost or stolen?</wcm:element>
+    <wcm:element name="button_text_lost">Lost</wcm:element>
+    <wcm:element name="lost_text">As your device has been lost, simply complete this form and we’ll block your SIM straight away. Once that’s done, we’ll advise you of the next steps.</wcm:element>
+    <wcm:element name="button_text_stolen">Stolen</wcm:element>
+    <wcm:element name="stolen_text">Don't worry, we'll block your SIM and blacklist your device so nobody can use it on any UK network. &lt;br/&gt;&lt;br/&gt; Simply get in touch to report it stolen - our advisers are available 24 hours a day, 7 days a week.</wcm:element>
+    <wcm:element name="stolen_text_2">Contact us using one of the following options:</wcm:element>
+    <wcm:element name="chat_button_text">&lt;strong&gt;Chat to us online&lt;/strong&gt;&lt;br /&gt;Chat to one of our advisers now</wcm:element>
+    <wcm:element name="phone_label_text"></wcm:element>
+    <wcm:element name="phone_number_text">Call:&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;191&lt;/strong&gt; free from your Vodafone mobile&lt;br /&gt;&lt;strong&gt;03333 040 191&lt;/strong&gt; from other UK landlines or mobiles (standard call charges apply)&lt;br /&gt;&lt;strong&gt;+44 7836 191 191&lt;/strong&gt; from abroad (free from a Vodafone mobile)</wcm:element>
+    <wcm:element name="label_first_name">First name</wcm:element>
+    <wcm:element name="Label_last_name">Last name</wcm:element>
+    <wcm:element name="Label_dob">Date of birth</wcm:element>
+    <wcm:element name="label_mob">Month of birth</wcm:element>
+    <wcm:element name="label_yob">Year of birth</wcm:element>
+    <wcm:element name="select_options_dob"/>
+    <wcm:element name="select_options_mob"/>
+    <wcm:element name="select_options_yob"/>
+  <wcm:element name="label_phone_number">Phone number of lost device</wcm:element>
+  <wcm:element name="label_confirm_phone_number">Confirm phone number</wcm:element>
+  <wcm:element name="helptext_voda_Number">This is the phone number for your lost phone, tablet or device. &lt;br /&gt; &lt;br /&gt; If you don't know the number and can access My Vodafone or the My Vodafone app using a different device, you can find the number there. If you can't access My Vodafone, you'll need to contact us</wcm:element>
+  <wcm:element name="report_lost_button_text">Stop my SIM</wcm:element>
+  <wcm:element name="found_device_header">Found a Vodafone device?</wcm:element>
+  <wcm:element name="found_device_text">If you’ve found a lost phone or tablet, the best thing to do is hand it in to the police, unless you’re somewhere that offers a lost property facility.&lt;br /&gt;&lt;br /&gt; If you find your phone or tablet after reporting it lost, you can &lt;a href="https://tcc6-www.vodafone.co.uk/webcenter/portal/myvodafone/founddevice"&gt;unblock your SIM online&lt;/a&gt; using our self-service tool.</wcm:element>  
+  <wcm:element name="found_device_remove_bar_login_link">Log in to My Vodafone</wcm:element>
+  <wcm:element name="confirm_heading">Are you sure?</wcm:element>
+	<wcm:element name="confirm_text">Please check your details and choose submit, and we’ll log this SIM as lost. This will block all outgoing calls, texts and data use.</wcm:element>
+  <wcm:element name="confirm_button_text">Confirm</wcm:element>
+  <wcm:element name="submit_button_text">Submit</wcm:element>
+  <wcm:element name="edit_view_header">Change your details</wcm:element>
+	<wcm:element name="edit_view_text">Once you're happy with your changes choose Submit</wcm:element>
+  <wcm:element name="edit_button_text">Edit form</wcm:element>
+  <wcm:element name="cancel_button_text">Cancel</wcm:element>
+  <wcm:element name="success_heading">We're blocking your SIM</wcm:element>
+	<wcm:element name="confirmation_text_1">As soon as we've blocked your SIM, we'll send you an email. &lt;br/&gt;&lt;br/&gt;If there are any charges to your account from unauthorised use, you don't need to pay now. You can check if your phone has been used by visiting &lt;a href="/myvodafone" target="_blank" &gt;My Vodafone.&lt;/a&gt; &lt;br/&gt;&lt;br/&gt; It's a good idea to change your passwords for any accounts you use on your device such as email, social media and online banking. &lt;br/&gt;&lt;br/&gt;Worried you’ve lost your photos? Lots of devices automatically save them to the cloud, for example in Google Photos or iCloud Photo Library, so check your account to see if you’ve still got them there.</wcm:element>
+  <wcm:element name="confirmation_text_2">Don't worry, you are not liable for any charges as of this moment. &lt;br/&gt;&lt;br/&gt;You should, in the mean time, change your passwords for any internet accounts used on your device - such as email accounts, social media and online banking. &lt;br/&gt;&lt;br/&gt;We'll send a confirmation to the email address we hold on file as soon as your SIM is blocked.</wcm:element>
+  <wcm:element name="confirmation_text_2_mobile">Don't worry, you are not liable for any charges as of this moment. &lt;br/&gt;&lt;br/&gt;You should, in the mean time, change your passwords for any internet accounts used on your device - such as email accounts, social media and online banking. &lt;br/&gt;&lt;br/&gt;We'll send a confirmation to the email address we hold on file as soon as your SIM is blocked.</wcm:element>
+  <wcm:element name="confirmation_text_3">Don't worry, you are not liable for any charges as of this moment. &lt;br/&gt;&lt;br/&gt;You should, in the mean time, change your passwords for any internet accounts used on your device - such as email accounts, social media and online banking. &lt;br/&gt;&lt;br/&gt;We'll send a confirmation to the email address we hold on file as soon as your SIM is blocked.</wcm:element>
+  <wcm:element name="confirmation_text_3_mobile">Don't worry, you are not liable for any charges as of this moment. &lt;br/&gt;&lt;br/&gt;You should, in the mean time, change your passwords for any internet accounts used on your device - such as email accounts, social media and online banking. &lt;br/&gt;&lt;br/&gt;We'll send a confirmation to the email address we hold on file as soon as your SIM is blocked.</wcm:element>
+  <wcm:element name="confirmation_common_text"></wcm:element>
+   <wcm:element name="confirmation_common_text_mobile"></wcm:element>
+  <wcm:element name="next_action_heading">&lt;b&gt;Do you have insurance?&lt;/b&gt;</wcm:element>
+  <wcm:element name="next_action_subheading">To keep your information safe</wcm:element>
+	<wcm:element name="next_action_text">&lt;li&gt;If you have Vodafone Insurance, you should call our claims team on 0333 304 3346 (standard call charges apply) from the UK, or call +44 7836 191 191 if calling from abroad. If you have your own insurance, please get in touch with your insurer as soon as you can.&lt;/li&gt; &lt;li&gt;You should change your passwords for any internet accounts used on your device - such as email accounts, Facebook or online banking.&lt;/li&gt; &lt;li&gt;If you have an iPhone and you have 'Find my iPhone' active, you can turn on Lost Mode - this allows you to lock and erase your device remotely. Apple Pay on the device will also be suspended when you put your device in Lost Mode. If you don't have 'Find my iPhone' active, you should change your Apple ID password - this will stop anyone accessing your iCloud data.&lt;/li&gt; &lt;li&gt;If you have an Android device, you can use the 'Find my Device' feature - this allows you to lock and erase your phone remotely&lt;/li&gt;</wcm:element>
+  <wcm:element name="next_action_header_2">To get back up and running</wcm:element>
+  <wcm:element name="next_action_text_2">&lt;li&gt;Order a replacement SIM - if you have another phone you can use or are too early in your contract to upgrade your phone, you can get a replacement SIM to transfer your plan onto. You can pick up a new SIM in store or order one by speaking to an adviser on Live Chat&lt;/li&gt; &lt;li&gt;Upgrade your phone and plan - if you're eligible for an upgrade, this may be the best way to get back up and running with a brand new device, SIM and plan. You can see your upgrade options by logging in to My Vodafone, popping into one of our stores or by speaking to our sales team over the phone or on Live Chat&lt;/li&gt;</wcm:element>
+  <wcm:element name="fail_heading">We can't match those details</wcm:element>
+  <wcm:element name="fail_text">It's probably the last thing you want to read right now, but we haven't been able to match the details you've given with a registered Vodafone mobile account.&lt;br /&gt; &lt;br /&gt; Please check the information you gave us and try again.</wcm:element>
+  <wcm:element name="fail_button_text">Continue</wcm:element>
+  <wcm:element name="fail_text_chat">Alternatively, you can simply contact us over Live Chat or by phone instead.</wcm:element>
+  <wcm:element name="second_fail_heading">We still can't match those details</wcm:element>
+	<wcm:element name="second_fail_text">Sorry - we still can't seem to match the details you've given with a registered account.&lt;br /&gt; Rather than wasting any more time with our form, it's probably best that you get in touch by phone or Live Chat. One of our advisers will be able to update your account and block any potential use on your missing SIM.</wcm:element>
+	<wcm:element name="heritage_user_fail_text">Sorry - we can't seem to match the details you've given with a registered account.&lt;br /&gt; Rather than wasting any more time with our form, it's probably best that you get in touch by phone or Live Chat. One of our advisers will be able to update your account and block any potential use on your missing SIM.</wcm:element>
+  <wcm:element name="non_mobile_number_error_heading">You've entered an incorrect Vodafone number.</wcm:element>
+	<wcm:element name="non_mobile_number_error_text">The number that you've given us doesn't match a Vodafone mobile device, so we can't bring up your records online.&lt;br /&gt; &lt;br /&gt; It's probably best that you get in touch with us - by phone or Live Chat. One of our advisers will be able to update your account and block any potential use on your missing SIM.</wcm:element>
+  <wcm:element name="inactive_number_error_header">Our records show that the number you've given us is currently inactive</wcm:element>
+	<wcm:element name="inactive_number_error_text">It's probably best that you get in touch with us - by phone or Live Chat. One of our advisers will be able to update your account and block any potential use on your missing SIM.</wcm:element>
+   <wcm:element name="system_fail_heading">Sorry - there seems to be a problem</wcm:element>
+	<wcm:element name="system_fail_text">Rather than let our system problems add to your own, it’s probably best that you get in touch by phone or Live Chat. One of our advisers will be able to update your account and block any potential use on your missing SIM straight away.</wcm:element>
+  <wcm:element name="bar_already_applied_header">This number is already blocked</wcm:element>
+  <wcm:element name="bar_already_applied_text">Our records show that this number has already been blocked and your account is already protected. Take a look at the information on this page to see what your next steps are.</wcm:element>
+  <wcm:element name="required_mark">&lt;span class="reqMark"&gt;*&lt;/span&gt;</wcm:element>
+  <wcm:element name="required_mark_explanation">Required information</wcm:element>
+  <wcm:element name="label_email">Email address</wcm:element>
+  <wcm:element name="label_email_sub">used to notify you when a bar is in place</wcm:element>
+  <wcm:list name="options_dob">
+    <wcm:row>
+      <wcm:element name="value"/>
+      <wcm:element name="option">DD</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">01</wcm:element>
+      <wcm:element name="option">01</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">02</wcm:element>
+      <wcm:element name="option">02</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">03</wcm:element>
+      <wcm:element name="option">03</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">04</wcm:element>
+      <wcm:element name="option">04</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">05</wcm:element>
+      <wcm:element name="option">05</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">06</wcm:element>
+      <wcm:element name="option">06</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">07</wcm:element>
+      <wcm:element name="option">07</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">08</wcm:element>
+      <wcm:element name="option">08</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">09</wcm:element>
+      <wcm:element name="option">09</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">10</wcm:element>
+      <wcm:element name="option">10</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">11</wcm:element>
+      <wcm:element name="option">11</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">12</wcm:element>
+      <wcm:element name="option">12</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">13</wcm:element>
+      <wcm:element name="option">13</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">14</wcm:element>
+      <wcm:element name="option">14</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">15</wcm:element>
+      <wcm:element name="option">15</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">16</wcm:element>
+      <wcm:element name="option">16</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">17</wcm:element>
+      <wcm:element name="option">17</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">18</wcm:element>
+      <wcm:element name="option">18</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">19</wcm:element>
+      <wcm:element name="option">19</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">20</wcm:element>
+      <wcm:element name="option">20</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">21</wcm:element>
+      <wcm:element name="option">21</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">22</wcm:element>
+      <wcm:element name="option">22</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">23</wcm:element>
+      <wcm:element name="option">23</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">24</wcm:element>
+      <wcm:element name="option">24</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">25</wcm:element>
+      <wcm:element name="option">25</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">26</wcm:element>
+      <wcm:element name="option">26</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">27</wcm:element>
+      <wcm:element name="option">27</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">28</wcm:element>
+      <wcm:element name="option">28</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">29</wcm:element>
+      <wcm:element name="option">29</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">30</wcm:element>
+      <wcm:element name="option">30</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">31</wcm:element>
+      <wcm:element name="option">31</wcm:element>
+    </wcm:row>
+  </wcm:list>
+  <wcm:list name="options_mob">
+    <wcm:row>
+      <wcm:element name="value"/>
+      <wcm:element name="option">MM</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">01</wcm:element>
+      <wcm:element name="option">Jan</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">02</wcm:element>
+      <wcm:element name="option">Feb</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">03</wcm:element>
+      <wcm:element name="option">Mar</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">04</wcm:element>
+      <wcm:element name="option">Apr</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">05</wcm:element>
+      <wcm:element name="option">May</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">06</wcm:element>
+      <wcm:element name="option">Jun</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">07</wcm:element>
+      <wcm:element name="option">Jul</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">08</wcm:element>
+      <wcm:element name="option">Aug</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">09</wcm:element>
+      <wcm:element name="option">Sep</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">10</wcm:element>
+      <wcm:element name="option">Oct</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">11</wcm:element>
+      <wcm:element name="option">Nov</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">12</wcm:element>
+      <wcm:element name="option">Dec</wcm:element>
+    </wcm:row>
+  </wcm:list>
+  <wcm:list name="options_yob">
+    <wcm:row>
+      <wcm:element name="value"/>
+      <wcm:element name="option">YYYY</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">2012</wcm:element>
+      <wcm:element name="option">2012</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">2011</wcm:element>
+      <wcm:element name="option">2011</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">2010</wcm:element>
+      <wcm:element name="option">2010</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">2009</wcm:element>
+      <wcm:element name="option">2009</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">2008</wcm:element>
+      <wcm:element name="option">2008</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">2007</wcm:element>
+      <wcm:element name="option">2007</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">2006</wcm:element>
+      <wcm:element name="option">2006</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">2005</wcm:element>
+      <wcm:element name="option">2005</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">2004</wcm:element>
+      <wcm:element name="option">2004</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">2003</wcm:element>
+      <wcm:element name="option">2003</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">2002</wcm:element>
+      <wcm:element name="option">2002</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">2001</wcm:element>
+      <wcm:element name="option">2001</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">2000</wcm:element>
+      <wcm:element name="option">2000</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1999</wcm:element>
+      <wcm:element name="option">1999</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1998</wcm:element>
+      <wcm:element name="option">1998</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1997</wcm:element>
+      <wcm:element name="option">1997</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1996</wcm:element>
+      <wcm:element name="option">1996</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1995</wcm:element>
+      <wcm:element name="option">1995</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1994</wcm:element>
+      <wcm:element name="option">1994</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1993</wcm:element>
+      <wcm:element name="option">1993</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1992</wcm:element>
+      <wcm:element name="option">1992</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1991</wcm:element>
+      <wcm:element name="option">1991</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1990</wcm:element>
+      <wcm:element name="option">1990</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1989</wcm:element>
+      <wcm:element name="option">1989</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1988</wcm:element>
+      <wcm:element name="option">1988</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1987</wcm:element>
+      <wcm:element name="option">1987</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1986</wcm:element>
+      <wcm:element name="option">1986</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1985</wcm:element>
+      <wcm:element name="option">1985</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1984</wcm:element>
+      <wcm:element name="option">1984</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1983</wcm:element>
+      <wcm:element name="option">1983</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1982</wcm:element>
+      <wcm:element name="option">1982</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1981</wcm:element>
+      <wcm:element name="option">1981</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1980</wcm:element>
+      <wcm:element name="option">1980</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1979</wcm:element>
+      <wcm:element name="option">1979</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1978</wcm:element>
+      <wcm:element name="option">1978</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1977</wcm:element>
+      <wcm:element name="option">1977</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1976</wcm:element>
+      <wcm:element name="option">1976</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1975</wcm:element>
+      <wcm:element name="option">1975</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1974</wcm:element>
+      <wcm:element name="option">1974</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1973</wcm:element>
+      <wcm:element name="option">1973</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1972</wcm:element>
+      <wcm:element name="option">1972</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1971</wcm:element>
+      <wcm:element name="option">1971</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1970</wcm:element>
+      <wcm:element name="option">1970</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1969</wcm:element>
+      <wcm:element name="option">1969</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1968</wcm:element>
+      <wcm:element name="option">1968</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1967</wcm:element>
+      <wcm:element name="option">1967</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1966</wcm:element>
+      <wcm:element name="option">1966</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1965</wcm:element>
+      <wcm:element name="option">1965</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1964</wcm:element>
+      <wcm:element name="option">1964</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1963</wcm:element>
+      <wcm:element name="option">1963</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1962</wcm:element>
+      <wcm:element name="option">1962</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1961</wcm:element>
+      <wcm:element name="option">1961</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1960</wcm:element>
+      <wcm:element name="option">1960</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1959</wcm:element>
+      <wcm:element name="option">1959</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1958</wcm:element>
+      <wcm:element name="option">1958</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1957</wcm:element>
+      <wcm:element name="option">1957</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1956</wcm:element>
+      <wcm:element name="option">1956</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1955</wcm:element>
+      <wcm:element name="option">1955</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1954</wcm:element>
+      <wcm:element name="option">1954</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1953</wcm:element>
+      <wcm:element name="option">1953</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1952</wcm:element>
+      <wcm:element name="option">1952</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1951</wcm:element>
+      <wcm:element name="option">1951</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1950</wcm:element>
+      <wcm:element name="option">1950</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1949</wcm:element>
+      <wcm:element name="option">1949</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1948</wcm:element>
+      <wcm:element name="option">1948</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1947</wcm:element>
+      <wcm:element name="option">1947</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1946</wcm:element>
+      <wcm:element name="option">1946</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1945</wcm:element>
+      <wcm:element name="option">1945</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1944</wcm:element>
+      <wcm:element name="option">1944</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1943</wcm:element>
+      <wcm:element name="option">1943</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1942</wcm:element>
+      <wcm:element name="option">1942</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1941</wcm:element>
+      <wcm:element name="option">1941</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1940</wcm:element>
+      <wcm:element name="option">1940</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1939</wcm:element>
+      <wcm:element name="option">1939</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1938</wcm:element>
+      <wcm:element name="option">1938</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1937</wcm:element>
+      <wcm:element name="option">1937</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1936</wcm:element>
+      <wcm:element name="option">1936</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1935</wcm:element>
+      <wcm:element name="option">1935</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1934</wcm:element>
+      <wcm:element name="option">1934</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1933</wcm:element>
+      <wcm:element name="option">1933</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1932</wcm:element>
+      <wcm:element name="option">1932</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1931</wcm:element>
+      <wcm:element name="option">1931</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1930</wcm:element>
+      <wcm:element name="option">1930</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1929</wcm:element>
+      <wcm:element name="option">1929</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1928</wcm:element>
+      <wcm:element name="option">1928</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1927</wcm:element>
+      <wcm:element name="option">1927</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1926</wcm:element>
+      <wcm:element name="option">1926</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1925</wcm:element>
+      <wcm:element name="option">1925</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1924</wcm:element>
+      <wcm:element name="option">1924</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1923</wcm:element>
+      <wcm:element name="option">1923</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1922</wcm:element>
+      <wcm:element name="option">1922</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1921</wcm:element>
+      <wcm:element name="option">1921</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1920</wcm:element>
+      <wcm:element name="option">1920</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1919</wcm:element>
+      <wcm:element name="option">1919</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1918</wcm:element>
+      <wcm:element name="option">1918</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1917</wcm:element>
+      <wcm:element name="option">1917</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1916</wcm:element>
+      <wcm:element name="option">1916</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1915</wcm:element>
+      <wcm:element name="option">1915</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1914</wcm:element>
+      <wcm:element name="option">1914</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1913</wcm:element>
+      <wcm:element name="option">1913</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1912</wcm:element>
+      <wcm:element name="option">1912</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1911</wcm:element>
+      <wcm:element name="option">1911</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1910</wcm:element>
+      <wcm:element name="option">1910</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1909</wcm:element>
+      <wcm:element name="option">1909</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1908</wcm:element>
+      <wcm:element name="option">1908</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1907</wcm:element>
+      <wcm:element name="option">1907</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1906</wcm:element>
+      <wcm:element name="option">1906</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1905</wcm:element>
+      <wcm:element name="option">1905</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1904</wcm:element>
+      <wcm:element name="option">1904</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1903</wcm:element>
+      <wcm:element name="option">1903</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1902</wcm:element>
+      <wcm:element name="option">1902</wcm:element>
+    </wcm:row>
+    <wcm:row>
+      <wcm:element name="value">1901</wcm:element>
+      <wcm:element name="option">1901</wcm:element>
+    </wcm:row>
+  </wcm:list>
+  <wcm:element name="bar_removal_header">Found or replaced your lost device?</wcm:element>
+	<wcm:element name="bar_removal_text">If you've previously reported your Vodafone phone, tablet or Mobile Broadband device as lost but have now found or replaced it, you'll need to unblock your SIM.&lt;br /&gt; &lt;br /&gt; To do this, just follow the instructions on this page and we'll have you back up and running in no time.&lt;br /&gt; &lt;br /&gt; Please note: if you’ve received a replacement SIM or device, first you’ll need to complete a &lt;a href=&quot;https://tcc6-www.vodafone.co.uk/webcenter/portal/myvodafone/asimswap&quot; target=&quot;_blank&quot;&gt;SIM swap&lt;/a&gt; before you can use this tool to unblock your SIM. </wcm:element>
+  <wcm:element name="CTN_label">Number</wcm:element>
+  <wcm:element name="remove_bar_success_header">Thank you</wcm:element>
+	<wcm:element name="remove_bar_success_text">We received your notification to unblock your SIM. Please allow a few minutes for the SIM to activate on your device - if it doesn't, try turning your device off and on again.&lt;br /&gt; &lt;br /&gt; If the SIM still isn't active after 24 hours, call our customer service team on &lt;strong&gt;191&lt;/strong&gt; free from a Vodafone mobile, &lt;strong&gt;03333 040 191&lt;/strong&gt; from other UK landlines or mobiles (standard call charges apply) or &lt;strong&gt;+44 7836 191 191&lt;/strong&gt; from abroad (free from a Vodafone mobile, standard call charges apply on any other phone).</wcm:element>
+  <wcm:element name="bar_removal_block_header">You can't unblock your SIM online</wcm:element>
+  <wcm:element name="bar_removal_block_text">The lost device bar can't be removed online. Please get in touch with our customer service team.</wcm:element>
+  <wcm:element name="contact_us_options_text">Contact us using one of the following options:</wcm:element>
+  <wcm:element name="fail_not_account_owner_heading">You can't unblock your SIM online</wcm:element>
+	<wcm:element name="fail_not_account_owner_text">As you're not the account owner, you don't have permission to remove the lost device bar online.&lt;br /&gt;&lt;br /&gt;Please contact the account owner, who will need to log in to remove the bar.</wcm:element>
+  <wcm:element name="log_out_button">Log out</wcm:element>
+  <wcm:element name="VOXI_redirect_button_text">Go to VOXI</wcm:element>
+  <wcm:element name="system_fail_heading_found">Sorry - there seems to be a problem</wcm:element>
+	<wcm:element name="system_fail_text_found">Rather than let our system problems add to your own, it’s probably best that you get in touch by phone or Live Chat. One of our advisers will be able to remove the lost device bar for you and get you back up and running.</wcm:element>
+  <wcm:element name="o_bar_not_present_error_header">This phone isn't blocked</wcm:element>
+	<wcm:element name="o_bar_not_present_error_text">The number you've entered hasn't been blocked or reported as lost.</wcm:element>
+  <wcm:element name="o_bar_not_present_error_chat_intro">Check the number you've entered is correct and try again.&lt;br /&gt;Please get in touch if you need some help.</wcm:element>
+  <wcm:element name="a_bar_present_error_header">We can't unblock your number right now</wcm:element>
+  <wcm:element name="a_bar_present_error_text">The number you've entered can't be unblocked online.&lt;br /&gt;You'll need to contact us instead.</wcm:element>
+  <wcm:element name="a_bar_present_error_chat_intro">Please use our Live Chat service, or give us a call.</wcm:element>
+  <wcm:element name="inactive_number_error_header_found">This number isn't active</wcm:element>
+  <wcm:element name="inactive_number_error_text_found">You've entered an inactive phone number. Please check the number and try again.</wcm:element>
+  <wcm:element name="inactive_number_error_chat_intro">Please get in touch if you need some help.</wcm:element>
+  <wcm:element name="not_vodafone_number_error_header">That number isn't one of ours</wcm:element>
+  <wcm:element name="not_vodafone_number_error_text">The number you've entered isn't a Vodafone number. Please check and try again.</wcm:element>
+  <wcm:element name="not_mobile_number_error_header">That number isn't correct</wcm:element>
+  <wcm:element name="not_mobile_number_error_text">The number you've entered isn't a correct mobile or Mobile Broadband number. Please check and try again.</wcm:element>
+  <wcm:element name="heritage_user_error_header">There's a problem with your number</wcm:element>
+  <wcm:element name="heritage_user_error_text">Please get in touch so we can help you.</wcm:element>
+	<wcm:element name="heritage_user_error_chat_intro">We can't find those details on our system. You'll need to contact us using one of the following options:</wcm:element>
+  <wcm:element name="VOXI_redirect_heading">You've entered a VOXI number</wcm:element>
+  <wcm:element name="VOXI_redirect_description">You'll need to get in touch with the VOXI team to help you with your query.</wcm:element>
+  <wcm:element name="login_button">Log in</wcm:element>
+  <wcm:element name="close_button_text">Close</wcm:element>
+  <wcm:element name="read_more_text">Find out more</wcm:element>
+	<wcm:element name="lost_bar_taskflow_header">Remove the bar on your SIM</wcm:element>
+  <wcm:element name="lost_bar_taskflow_text">Bar options</wcm:element>
+  <wcm:element name="subscription_not_eligable_heading">This information isn't relevant to the number you're currently using</wcm:element>
+  <wcm:element name="subscription_not_eligable_text">Please go to Account summary to choose another number or to see the services you can manage on this number.</wcm:element>
+ <wcm:element name="remove_bar_subscription_link">&lt;ul class="link-list"&gt;&lt;li class="icon icon-arrow"&gt;&lt;a href="/webcenter/portal/myvodafone/accountsummary"&gt;Go to Account summary&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</wcm:element>
+  <wcm:element name="remove_bar_subscription_link_mobile">&lt;ul class="link-list"&gt;&lt;li class="icon icon-arrow"&gt;&lt;a href="/webcenter/portal/myvodafone/accountsummary"&gt;Go to Account summary&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</wcm:element>
+    <wcm:element name="live_person_chat_div">&lt;div id=&quot;lpDiv-lost-stolen&quot;&gt;&lt;/div&gt;</wcm:element>
+	<wcm:element name="ie_heading">Sorry, there seems to be a problem</wcm:element>
+	<wcm:element name="ie_description">If you're using Internet Explorer and can't see the page properly, please reopen this page in a different browser. &lt;br /&gt;&lt;br /&gt; Try using the latest &lt;a target="_blank" href=&quot;https://www.google.com/chrome/&quot;&gt;Chrome&lt;/a&gt;, &lt;a target="_blank" href=&quot;https://www.mozilla.org/en-GB/firefox/&quot;&gt;Mozilla&lt;/a&gt; or &lt;a target="_blank" href=&quot;https://support.apple.com/en-us/HT204416&quot;&gt;Safari&lt;/a&gt;</wcm:element>
+  <wcm:element name="wipe_device_popup_title">How to wipe your device</wcm:element>
+  <wcm:element name="wipe_device_popup_sub_title">Remember, after you've wiped your device, you won't be able to track it any more.</wcm:element>
+  <wcm:element name="wipe_device_popup_details">&lt;ul class="list"&gt;&lt;li&gt;iPhone - &lt;a href="https://support.apple.com/kb/ph2701" target="_blank">Find My iPhone&lt;/a&gt; (Apple website)&lt;/li&gt;&lt;li&gt;Android - &lt;a href="https://support.google.com/accounts/answer/6160491?hl=en" target="_blank"&gt;Find My Device&lt;/a&gt; (Google website)&lt;/li&gt;&lt;li&gt;Samsung - &lt;a href="https://www.samsung.com/uk/support/mobile-devices/what-is-find-my-mobile-and-how-can-i-use-it-to-locate-lock-or-wipe-my-device/" target="_blank">Find My Mobile&lt;/a&gt; (Samsung website)&lt;/li&gt;&lt;/ul&gt;</wcm:element>
+  <wcm:element name="prefer_to_call_text">Prefer to call us?</wcm:element>
+  <wcm:element name="chat_now_to_block_cta">Chat now to block your device</wcm:element>
+  <wcm:element name="lost_payment_note">Report your lost device within 24 hours, and the most you'll need to pay for any unauthorised use is £100. Find out more about &lt;a href="https://support.vodafone.co.uk/Account-bill-and-top-up/Lost-and-stolen/38948813" target="_blank"&gt;&lt;u&gt;what you might have to pay&lt;/u&gt;&lt;/a&gt;</wcm:element>
+  <wcm:element name="lost_intro_text">Don't worry, we'll block your SIM to stop anyone from using your data, calls and texts.</wcm:element>
+  <wcm:element name="insurance_with_vodafone_tab">I have insurance with Vodafone</wcm:element>
+  <wcm:element name="insurance_with_vodafone_tab_details">&lt;p&gt;We might be able to get you a replacement device &lt;b&gt;within 24 hours&lt;/b&gt;. Please call the Vodafone insurance team.&lt;br /&gt;&lt;br /&gt;From the UK &lt;span&gt;03333 304 3346&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;From abroad &lt;span&gt;+44 7836 191 191&lt;/span&gt;&lt;/p&gt;</wcm:element>
+  <wcm:element name="insurance_with_other_tab">I have insurance with another provider</wcm:element>
+  <wcm:element name="insurance_with_other_tab_details">&lt;b&gt;Contact your insurance provider&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Please contact your insurance provider to let them know what's happened.&lt;/p&gt;&lt;hr /&gt;&lt;p&gt;&lt;b&gt;Let's get you back up and running&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you have a spare device, we can send you a new SIM to get you back up and running as soon as possible.</wcm:element>
+  <wcm:element name="no_insurance_tab">I don't have insurance</wcm:element>
+  <wcm:element name="no_insurance_tab_details">&lt;b&gt;Let's get you back up and running&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you have a spare device, we can send you a new SIM to get you back up and running as soon as possible.</wcm:element>
+  <wcm:element name="chat_to_us_now_cta">To get started chat to us now</wcm:element>
+  <wcm:element name="mobile_number_text_placeholder">07123456789</wcm:element>
+  <wcm:element name="email_text_placeholder">john.smith@vodafone.co.uk</wcm:element>
+</wcm:root>
